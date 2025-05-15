@@ -3,7 +3,7 @@
 
 
 
-# 💫 About Me:
+## 📌 About Me:
 I'm a passionate game developer and web developer who loves bringing ideas to life through interactive experiences and clean, functional web design. Whether I'm building immersive gameplay systems or crafting responsive web interfaces, I’m driven by curiosity and a constant desire to learn and improve. I enjoy working across the stack, experimenting with new tools, and solving real problems through code. Let's build something awesome!
 
 
