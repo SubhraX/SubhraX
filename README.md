@@ -11,10 +11,10 @@ I ❤️ bringing ideas to life—whether it's through immersive **game developm
 
 ---
 
-| | |
-|-|-|
+| **Category**          | **Details**                                                                                                                                         |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages & Tools** | C, C++, C#, Java, Python, JavaScript, HTML, CSS, .NET, Node.js, React, MongoDB, MySQL, Keras, Pandas, NumPy, scikit-learn, TensorFlow, Arduino, Git, GitHub, Unity, Blender, Canva, Adobe |
-| **Platforms** | Windows, Linux |
+| **Platforms**         | Windows, Linux                                                                                                                                       |
 
 ---
 
