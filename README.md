@@ -18,8 +18,8 @@ I ❤️ bringing ideas to life—whether it's through immersive **game developm
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhraX&show_icons=true&theme=dracula&hide=issues,contribs)](https://github.com/SubhraX)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhraX&theme=dracula&layout=compact)](https://github.com/SubhraX)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhraX&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/SubhraX)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhraX&theme=dark&layout=compact)](https://github.com/SubhraX)
 
 ---
 
