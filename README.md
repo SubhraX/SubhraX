@@ -18,8 +18,10 @@ I ❤️ bringing ideas to life—whether it's through immersive **game developm
 
 ---
 
-![SubhraX's Stats](https://github-readme-stats.vercel.app/api?username=SubhraX&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![SubhraX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubhraX&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhraX&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="SubhraX's Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhraX&theme=tokyonight&hide_border=false" alt="SubhraX's Streak">
+</p>
 
 ---
 
