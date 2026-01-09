@@ -18,12 +18,5 @@ I ❤️ bringing ideas to life—whether it's through immersive **game developm
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SubhraX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SubhraX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhraX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### Socials  
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">](https://www.facebook.com/Shubhra2003) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">](https://instagram.com/subhra_2003) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shubhra-samanta-58519823b/) [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">](https://www.youtube.com/@shubhra2003)  
